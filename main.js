@@ -400,7 +400,7 @@ if (message.content.startsWith( prefix + "roi")) {
   
   var dev = new Discord.RichEmbed()
   .setTitle(`Salut à toi, ${message.author.username}`)
-  .addField("Si tu lis ceci c'est pour en savoir plus sur mon développeur. Je vais tout te dire.", "Son pseudo discord est ℒ𝓪𝓻𝓪 ℱ𝒆𝓷𝓻𝓲𝓻#0195. Il est développeur depuis longtemps déjà. Il as déjà créée (avant de me créer moi) un bot musique, qui dois sans doutes être présent actuellement sur le serveur ou tu te situe (dans le cas contraire, désolée :/) essaie donc de faire '+help music' tu verras !")
+  .addField("Si tu lis ceci c'est pour en savoir plus sur mon développeur. Je vais tout te dire.", "Son pseudo discord est 𝓢𝓷𝓾𝓻𝒇𝓵 ℒ𝓪𝓻𝓪#0195. Il est développeur depuis longtemps déjà. Il as déjà créée (avant de me créer moi) un bot musique, qui dois sans doutes être présent actuellement sur le serveur ou tu te situe (dans le cas contraire, désolée :/) essaie donc de faire '+help music' tu verras !")
   .addField("Que dire de plus..", "Ah si ! Il te remercie de m'avoir ajoutée sur ce serveur ! Car même si il n'est pas co, je sauvegarde toutes intéractions avec moi même ou les autres bots de Lara, ce qui fait qu'il les voies. Donc, merci ! ❤")
   .setImage('https://cdn.discordapp.com/attachments/511554588738846720/522212606577082370/1312931744.jpg')
   .setThumbnail("https://cdn.discordapp.com/attachments/511554588738846720/522212793299238923/nekoGirl_1.jpg")
