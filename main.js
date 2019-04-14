@@ -377,10 +377,10 @@ if (message.content.startsWith( prefix + "cookie")) {
 }
 
 
-if (message.content.startsWith(`<@529372270754267147> Tu commence doucement à me faire chier toi`))
+if (message.content.startsWith(`<@567044362782113824> Tu commence doucement à me faire chier toi`))
     message.channel.send("Moi aussi je t'aime mon chou <3")
-    if (message.content.startsWith(`<@529372270754267147> bon courage`))
-    message.channel.send("Avec un dev comme ℒ𝓪𝓻𝓪 ℱ𝒆𝓷𝓻𝓲𝓻 ouai il m'en faut.. ")
+    if (message.content.startsWith(`<@567044362782113824> bon courage`))
+    message.channel.send(`Avec un dev comme <@222445753484705802> ouai il m'en faut.. `)
 
 
 if (message.content.startsWith( prefix + "roi")) {
